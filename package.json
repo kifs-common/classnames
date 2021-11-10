@@ -1,13 +1,13 @@
 {
   "name": "@kifs-common/classnames",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "A reducer in a context",
   "keywords": [
+
     "react",
     "hook",
-    "reducer",
-    "context"
+    "classname"
   ],
   "homepage": "https://github.com/kifs-common/classnames",
   "repository": {
