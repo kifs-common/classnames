@@ -1,0 +1,23 @@
+{
+  "name": "@kifs-common/classnames",
+  "version": "1.0.4",
+  "private": false,
+  "description": "A reducer in a context",
+  "keywords": [
+    "react",
+    "hook",
+    "reducer",
+    "context"
+  ],
+  "homepage": "https://github.com/kifs-common/classnames",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kifs-common/classnames.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kifs-common/classnames/issues"
+  },
+  "main": "src/index.js",
+  "author": "Arthur Agombart<arthur.agombart@gmail.com>",
+  "license": "MIT"
+}
